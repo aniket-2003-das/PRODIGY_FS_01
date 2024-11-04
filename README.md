@@ -1,9 +1,7 @@
-
----
-
 # PRODIGY_FS_01 - User Authentication
 
-This project is a user authentication system built using the MERN stack (MongoDB, Express, React, Node.js). It includes features like user registration, login, logout, and session management.
+Task of user authentication system built using the MERN stack.
+Features are user registration, login, logout, and session management.
 
 ## Table of Contents
 
@@ -36,7 +34,7 @@ This project is a user authentication system built using the MERN stack (MongoDB
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Manishl8304/PRODIGY_FS_01.git
+   git clone https://github.com/aniket-2003-das/PRODIGY_FS_01.git
    cd PRODIGY_FS_01
    ```
 
